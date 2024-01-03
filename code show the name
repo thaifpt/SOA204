@@ -1,0 +1,9 @@
+Python code:
+# Một đoạn mã Python để hiển thị tên
+
+def hien_ten():
+    ten = "Tên Của Bạn"  # Thay "Tên Của Bạn" bằng tên của bạn
+    print(f"Xin chào, tôi là {ten}!")
+
+# Gọi hàm để hiển thị tên
+hien_ten()
